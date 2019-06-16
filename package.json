@@ -1,0 +1,28 @@
+{
+  "name": "boilerplate-typeB",
+  "version": "1.0.0",
+  "description": "webpack編",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morizo0123/boilerplate-typeB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morizo0123/boilerplate-typeB/issues"
+  },
+  "homepage": "https://github.com/morizo0123/boilerplate-typeB#readme",
+  "devDependencies": {
+    "webpack": "^4.34.0",
+    "webpack-cli": "^3.3.4",
+    "webpack-dev-server": "^3.7.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
